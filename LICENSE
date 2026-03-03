@@ -1,0 +1,45 @@
+MIT License
+
+Copyright (c) 2025 Cinder Zhang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ADDITIONAL DISCLAIMER FOR FINANCIAL APPLICATIONS:
+
+This software is a development methodology and workflow framework. It does not
+provide financial advice, execute trades, or manage investments.
+
+Any financial tools, calculations, or applications developed using this
+methodology are the sole responsibility of the developer. The authors of this
+software assume no liability for:
+
+- Financial losses resulting from tools developed using this methodology
+- Errors in financial calculations implemented by users
+- Investment decisions made based on tools created with this software
+- Any other damages arising from the use of this software
+
+Users are responsible for:
+- Validating all financial calculations in their own implementations
+- Testing their applications thoroughly before use
+- Consulting qualified financial professionals for investment decisions
+- Complying with all applicable financial regulations
+
+USE AT YOUR OWN RISK.

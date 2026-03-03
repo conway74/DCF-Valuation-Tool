@@ -1,0 +1,8 @@
+Operating CF: 7408000000.0
+Capex: -2112000000.0
+Free CF: 5296000000.0
+Info operatingCF: 7408000000
+Info freeCF: -1461250048
+Info shares: 4300723069
+Info debt: 47914000384
+Info cash: 15806000128
